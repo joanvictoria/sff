@@ -1,1 +1,1 @@
-Welcome to the Terminologia-espec-fica-en-angl-s wiki!
+In this wiki we are going to post our project. Hope you enjoy it!
