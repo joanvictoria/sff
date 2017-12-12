@@ -1,1 +1,1 @@
-t
+El proyecto que vamos a realizar en la asignatura de usos específicos en terminología específica en inglés, es un mando de televisión el cual cambia los comandos a través del movimiento, a  través de una placa arduino programaremos las funciones del mando.
